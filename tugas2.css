@@ -1,0 +1,42 @@
+
+    *{
+        box-sizing: border-box
+    }
+    #tombol{
+        text-align: center
+    }
+    .body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:white
+    }
+    .header{
+        background-color:#58D68D;
+        text-align: center;
+        padding: 30px;
+        font-size: 20px;
+    }
+    .header img{
+        width: 80;
+        height: 80;
+        float: right;
+        border-style: none;
+        border-radius: 180px;
+    }
+    #agre{
+        text-align: left
+    }
+    .nav{
+        background-color:#EC7063;
+        height: 350px;
+        width: 300px;
+    }
+    .nav form{
+        padding: 20px 20px 20px 20px;
+        margin: 0px
+    }
+    
+    .footer{
+        background-color:#58D68D;
+        padding: 5px;
+        text-align: right;
+    }
